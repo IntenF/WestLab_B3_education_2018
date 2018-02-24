@@ -1,0 +1,3 @@
+from sklearn.neighbors import KNeighborsClassifier #K近傍法
+from sklearn.tree import DecisionTreeClassifier #決定木
+from sklearn.naive_bayes import GaussianNB #ナイーブベイズ
